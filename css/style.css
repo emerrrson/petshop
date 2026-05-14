@@ -283,6 +283,13 @@ body {
     border-radius: 35px;
 }
 
+.products-section p {
+    font-size: 18px;
+    font-weight: 700;
+    color: #3B2A1F;
+}
+
+
 .products-container {
     margin-top: 30px;
     display: flex;
@@ -325,13 +332,16 @@ body {
 }
 
 .care-section {
-    margin-top: 30px;
+    margin-top: 60px;
+
+    padding: 35px;
+    border-radius: 35px;
 }
 
 .care-container {
     margin-top: 30px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     gap: 20px;
     flex-wrap: wrap;
 }
@@ -352,7 +362,14 @@ body {
     height: 100px;
     margin: 0 auto 20px;
     border-radius: 50%;
-    background-color: F3EADF;
+    background-color: #F3EADF;
 }
+
+.care-section .section-header p {
+    font-size: 18px;
+    font-weight: 700;
+    color: #3B2A1F;
+}
+
 
 
