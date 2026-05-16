@@ -48,7 +48,7 @@ body {
 .navbar a {
     text-decoration: none;
     color: #3B2A1F;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
     transition: 0.3s;
 }
@@ -131,6 +131,7 @@ body {
 }
 
 .hero-buttons {
+    margin: 10px 0;
     display: flex;
     gap: 20px;
 }
